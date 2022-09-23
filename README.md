@@ -29,7 +29,7 @@ the applications I develop or even create new solutions.
 I always have an idea in mind for a game, graphic art or website/app development.
 I've been studying a lot about React and I intend to study UI/UX, as I know it will make me evolve a lot more in my front-end development.
 <p></p>
-- ⚡ Currently studying animations in React-Native, StoryBook and Cypress 
+- ⚡ Currently studying React, TailwindCss and NodeJS 
 
 - 💬 We can talk about Technology, animations, music and Series 
 
