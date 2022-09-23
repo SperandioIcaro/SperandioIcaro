@@ -2,7 +2,7 @@
 <span>Front-end Developer</span>
 
 
-### Hello, Welcome!! - Sejam muito bem vindos! 🚀 
+### Hello, Welcome!! 🚀 
 #### Be free to contribute and share 🇧🇷
 
 <p>   
