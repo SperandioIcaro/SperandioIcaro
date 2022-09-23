@@ -3,7 +3,7 @@
 
 
 ### Hello, Welcome!! - Sejam muito bem vindos! 🚀 
-#### Be free to contribute and share - Sintam-se a vontade para contribuir e interagir 🇧🇷
+#### Be free to contribute and share 🇧🇷
 
 <p>   
   <img src="https://img.shields.io/badge/Mobile-React Native-7923D9"/>
