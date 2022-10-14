@@ -1,5 +1,4 @@
 <h1>Ícaro Sperandio</h1>
-[![@sperandioicaro's Holopin board](https://holopin.me/sperandioicaro)](https://holopin.io/@sperandioicaro)
 <span>Front-end Developer</span>
 
 
@@ -47,5 +46,6 @@ I've been studying a lot about React and I intend to study UI/UX, as I know it w
 [<img src="https://img.shields.io/github/followers/SperandioIcaro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/SperandioIcaro) 
 
 
+[![@sperandioicaro's Holopin board](https://holopin.me/sperandioicaro)](https://holopin.io/@sperandioicaro) 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SperandioIcaro&layout=compact&theme=dark)](https://github.com/SperandioIcaro/github-readme-stats)
