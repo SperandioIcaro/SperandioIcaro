@@ -1,7 +1,7 @@
 
 [![@sperandioicaro's Holopin board](https://holopin.me/sperandioicaro)](https://holopin.io/@sperandioicaro) 
 
-<h1>Ícaro Sperandio</h1>
+<h1 style="color: purple" >Ícaro Sperandio</h1>
 <span>Front-end Developer</span>
 
 
