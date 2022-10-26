@@ -19,7 +19,7 @@
   </a>
 </p>
  
- <div>
+ <div align="center">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SperandioIcaro&show_icons=true&theme=tokyonight)
 
@@ -53,7 +53,7 @@ I've been studying a lot about React and I intend to study UI/UX, as I know it w
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SperandioIcaro/)
 [<img src="https://img.shields.io/github/followers/SperandioIcaro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/SperandioIcaro) 
 
+##
 
-
-
-  ![Snake animation](https://github.com/SperandioIcaro/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/SperandioIcaro/SperandioIcaro/blob/output/github-contribution-grid-snake.svg)
+ 
