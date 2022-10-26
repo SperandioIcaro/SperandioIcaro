@@ -8,24 +8,30 @@
 ### Hello, Welcome!! 🚀 
 #### Be free to contribute and share 🇧🇷
 
+<div style="display: flex">
 <p>   
-  <img src="https://img.shields.io/badge/Mobile-React Native-7923D9"/>
-  <img src="https://img.shields.io/badge/Front End-React-7923D9"/>
-  <img src="https://img.shields.io/badge/Back End-NodeJs-7923D9"/>
+  <a href="https://www.linkedin.com/in/icarosperandio/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Mobile-React Native-7923D9"/>
+    <img src="https://img.shields.io/badge/Front End-React-7923D9"/>
+    <img src="https://img.shields.io/badge/Back End-NodeJs-7923D9"/>
   
   <img src="http://views.whatilearened.today/views/github/SperandioIcaro/views.svg"/> 
-  <a href="https://github.com/SperandioIcaro?tab=repositories">
-    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
-  </a>
+    <a href="https://github.com/SperandioIcaro?tab=repositories">
+      <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
+    </a>
+    
 </p>
- 
- <div align="center">
- 
+ </div>
+
+<div style="display: flex">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SperandioIcaro&show_icons=true&theme=tokyonight)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SperandioIcaro&layout=compact&theme=dark)](https://github.com/SperandioIcaro/github-readme-stats)
  
  </div>
+
 
 ##  About Me 
 
@@ -55,5 +61,5 @@ I've been studying a lot about React and I intend to study UI/UX, as I know it w
 
 ##
 
- ![Snake animation](https://github.com/SperandioIcaro/SperandioIcaro/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/SperandioIcaro/snk/raw/output/github-contribution-grid-snake.svg)
  
