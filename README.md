@@ -56,4 +56,4 @@ I've been studying a lot about React and I intend to study UI/UX, as I know it w
 
 
 
-  ![Snake animation](https://github.com/SperandioIcaro/SperandioIcaro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/SperandioIcaro/blob/output/github-contribution-grid-snake.svg)
