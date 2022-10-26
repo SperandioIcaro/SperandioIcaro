@@ -10,7 +10,7 @@
 
 <div style="display: flex">
 <p>   
-  <a href="https://www.linkedin.com/in/icarosperandio/" target="_blank">
+  <a href="https://www.linkedin.com/in/sperandioicaro/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
     <img src="https://img.shields.io/badge/Mobile-React Native-7923D9"/>
     <img src="https://img.shields.io/badge/Front End-React-7923D9"/>
