@@ -20,9 +20,11 @@
 </p>
  
  <div>
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SperandioIcaro&show_icons=true&theme=tokyonight)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SperandioIcaro&layout=compact&theme=dark)](https://github.com/SperandioIcaro/github-readme-stats)
+ 
  </div>
 
 ##  About Me 
