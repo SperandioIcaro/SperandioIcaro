@@ -19,8 +19,10 @@
   </a>
 </p>
  
+ <div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SperandioIcaro&show_icons=true&theme=tokyonight)
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SperandioIcaro&layout=compact&theme=dark)](https://github.com/SperandioIcaro/github-readme-stats)
+ </div>
 
 ##  About Me 
 
@@ -50,4 +52,5 @@ I've been studying a lot about React and I intend to study UI/UX, as I know it w
 
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SperandioIcaro&layout=compact&theme=dark)](https://github.com/SperandioIcaro/github-readme-stats)
+
+  ![Snake animation](https://github.com/SperandioIcaro/SperandioIcaro/blob/output/github-contribution-grid-snake.svg)
