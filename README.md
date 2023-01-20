@@ -47,7 +47,7 @@ I've been studying a lot about React and I intend to study UI/UX, as I know it w
 
 - 💬 We can talk about Technology, animations, music and Series 
 
-- 📫 Email: _icaro.sperandio@gmail.com_.
+- 📫 Email: _sperandioicaro@gmail.com_.
 
 - 📓 Curiosity: *whenever I have money left, I will get a tattoo*
 </br>
