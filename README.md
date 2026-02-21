@@ -1,65 +1,68 @@
+<!--cabeçalho HELLO WORD-->
+<div align = "center">
+  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+</div>
 
-[![@sperandioicaro's Holopin board](https://holopin.me/sperandioicaro)](https://holopin.io/@sperandioicaro) 
+<br>
 
-<h1 style="color: purple" >Ícaro Sperandio</h1>
-<span>Front-end Developer</span>
+<h1 align="center">Ícaro Sperandio</h1>
 
-
-### Hello, Welcome!! 🚀 
-#### Be free to contribute and share 🇧🇷
-
-<div style="display: flex">
-<p>   
-  <a href="https://www.linkedin.com/in/sperandioicaro/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-    <img src="https://img.shields.io/badge/Mobile-React Native-7923D9"/>
-    <img src="https://img.shields.io/badge/Front End-React-7923D9"/>
-    <img src="https://img.shields.io/badge/Back End-NodeJs-7923D9"/>
-  
-  <img src="http://views.whatilearened.today/views/github/SperandioIcaro/views.svg"/> 
-    <a href="https://github.com/SperandioIcaro?tab=repositories">
-      <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
-    </a>
-    
+<p align="center">
+  Front-End Developer • UI Enthusiast • Game & Creative Mind
 </p>
- </div>
 
-<div style="display: flex">
+<p align="center">
+  <a href="https://www.linkedin.com/in/sperandioicaro/">
+    <img src="https://img.shields.io/badge/LinkedIn-7923D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sperandioicaro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7923D9?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SperandioIcaro&show_icons=true&theme=tokyonight)
+---
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SperandioIcaro&layout=compact&theme=dark)](https://github.com/SperandioIcaro/github-readme-stats)
- 
- </div>
+## 👋 About Me
 
+I build interfaces that feel alive.
 
-##  About Me 
+Student of Systems Analysis and Development and Game Design.  
+Curious by nature, always improving what I create — whether it's a website, an app, a visual concept, or a game idea that refuses to leave my head.
 
+Currently focused on evolving as a Front-End Developer while sharpening my UI/UX perception.
 
-Student of systems analysis and development and game design. 
+---
 
-Curious by nature, I like to always look for new things to help me improve.
-the applications I develop or even create new solutions.
-I always have an idea in mind for a game, graphic art or website/app development.
-I've been studying a lot about React and I intend to study UI/UX, as I know it will make me evolve a lot more in my front-end development.
-<p></p>
-- ⚡ Currently studying React, TailwindCss and NodeJS 
+## 🧠 Tech Stack
 
-- 💬 We can talk about Technology, animations, music and Series 
+React • React Native • NodeJS  
+TailwindCSS • JavaScript • Git
 
-- 📫 Email: _sperandioicaro@gmail.com_.
+---
 
-- 📓 Curiosity: *whenever I have money left, I will get a tattoo*
-</br>
+## 🚀 What I'm Working On
 
-> "It is the time you have wasted for your rose that makes your rose so important."
-― The Fox, from ***the little prince***
+- ⚛️ Deepening React ecosystem knowledge
+- 🎨 Refining UI details and user experience
+- 🟢 Strengthening backend logic with NodeJS
+- 🎮 Exploring game mechanics & interaction design
 
+---
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SperandioIcaro/)
-[<img src="https://img.shields.io/github/followers/SperandioIcaro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/SperandioIcaro) 
+## 📊 GitHub Activity
 
-##
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SperandioIcaro&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SperandioIcaro&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github.com/SperandioIcaro/snk/raw/output/github-contribution-grid-snake.svg)
- 
+---
+
+> “It is the time you have wasted for your rose that makes your rose so important.”  
+> — The Fox, from _The Little Prince_
+
+---
+
+<p align="center">
+  <img src="https://github.com/SperandioIcaro/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
