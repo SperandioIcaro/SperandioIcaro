@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ícaro Sperandio — Front-End Developer</title>
+  <desc id="desc">A modern retro terminal window in a dark purple palette with pixel decorations and a developer prompt.</desc>
+  <rect width="1200" height="340" rx="22" fill="#1e1e2e"/>
+  <rect x="22" y="22" width="1156" height="296" rx="16" fill="#181825" stroke="#45475a" stroke-width="2"/>
+  <path d="M38 22h1124a16 16 0 0 1 16 16v39H22V38a16 16 0 0 1 16-16Z" fill="#313244"/>
+  <circle cx="52" cy="49" r="7" fill="#f38ba8"/>
+  <circle cx="76" cy="49" r="7" fill="#f9e2af"/>
+  <circle cx="100" cy="49" r="7" fill="#a6e3a1"/>
+  <text x="600" y="55" text-anchor="middle" fill="#a6adc8" font-family="monospace" font-size="15">icaros@github: ~</text>
+
+  <g font-family="monospace">
+    <text x="78" y="133" fill="#a6e3a1" font-size="17">$ whoami</text>
+    <text x="78" y="184" fill="#cba6f7" font-size="43" font-weight="700">Ícaro Sperandio</text>
+    <text x="80" y="222" fill="#cdd6f4" font-size="22">Front-End Developer</text>
+    <text x="80" y="266" fill="#89b4fa" font-size="16">React · TypeScript · UI/UX · Creative coding</text>
+    <rect x="78" y="286" width="11" height="18" fill="#cba6f7"/>
+  </g>
+
+  <g transform="translate(900 110)" shape-rendering="crispEdges">
+    <rect x="56" y="0" width="24" height="24" fill="#cba6f7" opacity=".9"/>
+    <rect x="80" y="24" width="24" height="24" fill="#89b4fa" opacity=".9"/>
+    <rect x="32" y="24" width="24" height="24" fill="#f9e2af" opacity=".9"/>
+    <rect x="56" y="48" width="24" height="24" fill="#a6e3a1" opacity=".9"/>
+    <rect x="104" y="72" width="24" height="24" fill="#cba6f7" opacity=".65"/>
+    <rect x="8" y="72" width="24" height="24" fill="#89b4fa" opacity=".65"/>
+    <rect x="56" y="96" width="24" height="24" fill="#f38ba8" opacity=".85"/>
+    <rect x="80" y="120" width="24" height="24" fill="#cba6f7" opacity=".65"/>
+    <rect x="32" y="120" width="24" height="24" fill="#a6e3a1" opacity=".65"/>
+    <rect x="170" y="12" width="8" height="8" fill="#f9e2af"/>
+    <rect x="194" y="36" width="8" height="8" fill="#89b4fa"/>
+    <rect x="166" y="132" width="8" height="8" fill="#a6e3a1"/>
+    <rect x="-18" y="34" width="8" height="8" fill="#cba6f7"/>
+  </g>
+  <text x="1118" y="292" text-anchor="end" fill="#585b70" font-family="monospace" font-size="12">BUILD / LEARN / REPEAT</text>
+</svg>
